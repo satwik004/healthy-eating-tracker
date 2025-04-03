@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qnQlzZed9Oh3SZl95eKfwnFTpl2kuIFs0Elesll9zuY=",
+  "Source": "HealthyEats.API",
+  "BasePath": "_content/HealthyEats.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
